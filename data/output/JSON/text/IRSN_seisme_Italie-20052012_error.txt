@@ -1,0 +1,15 @@
+
+{
+"seisme": {
+"lieu": "Emilia -Romagna",
+"date": "20 mai 2012",
+"heure\_utc": "04:03",
+"heure\_locale": "14:03",
+"magnitude": "6.1",
+"localisation": {
+"latitude": "44.89°",
+"longitude": "11.23°",
+"zone": "basse plaine du Pô",
+"description": "La chaîne apennine traverse la région de la basse plaine du Pô. Le séisme s'est produit sur un des chevauchements les plus au nord cachés sous la plaine du Pô (Figure 3). Cette zone est caractérisée par une sismicité instrumentale éparse (INGV), avec une sismicité enregistrée avant le séisme du 20 mai 2012 qui ne dépassait pas la magnitude Mw 5.0. Les séismes historiques majeurs, c'est-à-dire ayant occasionné des dommages importants (en particulier dans la ville de Ferrara – Figure 4), sont le séisme du 22 février 1346 (magnitude Mw estimée à 4.9), dont l'épicentre est difficile à localiser et celui du 17 novembre 1570 (magnitude Mw estimée à 5.5) (Figure 1), localisé à Ferrara, à 30 km de l'épicentre du séisme du 20 mai 2012 (INGV – DBIM11 – http://emidius .mi.ingv.it/DBMI 11). Figure 3 : Coupe géologique SSW-NNE à hauteur de l'épicentre du séisme du 20 mai 2012 . L'hypocentre (étoile rouge) est vraisemblablement localisé sur le front de chevauchement (en compression) des Apennins du Nord, au-dessous de la zone de Mirandola . Figure adaptée d'après Picotti et Pazzaglia (2008). Figure 4 : Intensité des effets occasionnés par les séismes historiques dans la ville de Ferrara (source INGV). Les intensités supérieures à VIII correspondent à des niveaux de dommages importants. 22 Mai 2012 Figure 2 : Les traits rouges indiquent le front des chaînes des Alpes et des Apennins) . Le séisme du 20 mai 2012 (étoile rouge) s'est produit sur une des chaînes frontales des Apennins du nord. Le cercle blanc et rouge, déduit des enregistrements sismiques, indique un mécanisme tectonique en compression orienté SSW- NNE. Figure adaptée de Boccaletti et al. (2011). SSW NNE"
+}
+}

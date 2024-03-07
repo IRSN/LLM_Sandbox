@@ -1,0 +1,53 @@
+
+{
+"seisme": {
+"lieu": "Lorca, Espagne",
+"date": "11 mai 2011",
+"heure\_utc": "16h47",
+"heure\_locale": "17h47",
+"magnitude": "5.1",
+"localisation": {
+"latitude": "37.68°",
+"longitude": "1.68°"
+},
+"repliques": {
+"nombre": "1",
+"magnitudes": {
+"min": "4.4",
+"max": "5.1"
+}
+},
+"impact": {
+"humain": "9 morts et plusieurs centaines de blessés",
+"matériel": "des dégâts partout dans la ville"
+},
+"contexte\_sismotectonique": {
+"description": "La région est située dans une zone de sismicité modérée. Le système de failles d'Alhama de Murcia est très actif au Quaternaire et a provoqué des paléoséismes de magnitude supérieure à 6.5 dans les 30 000 dernières années."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "1829",
+"magnitude": "6.3",
+"localisation": "Torrevieja, Espagne",
+"victimes\_estimees": "400 personnes"
+},
+{
+"date": "1956",
+"magnitude": "Mw 5.0",
+"localisation": "Grenade, Espagne",
+"victimes\_estimees": "0"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "1000 MWe",
+"localisation": "Cofrentes, Portugal",
+"impact": "aucun effet n’était anticipé et n’a été signalé sur le site même de la centrale nucléaire."
+}
+},
+"references": [
+"IRSN/BERSSIN (2011). Fiche seisme Lorca-Espagne 18052011. Retrieved from <https://www.irsn.fr/sites/default/files/documents/fiche-seisme-lorca-espagne-18052011.pdf>"
+]
+}

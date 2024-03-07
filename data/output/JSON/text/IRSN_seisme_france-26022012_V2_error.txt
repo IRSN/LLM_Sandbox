@@ -1,0 +1,47 @@
+
+{
+"seisme": {
+"lieu": "Saint-Paul-sur-Ubaye",
+"date": "26 février 2012",
+"heure\_utc": "23h37",
+"heure\_locale": "23h37",
+"magnitude": "4.8",
+"localisation": {
+"latitude": "44°30' North",
+"longitude": "06°42' East"
+},
+"repliques": {
+"nombre": "17",
+"magnitudes": {
+"min": "3.1",
+"max": "4.0"
+}
+},
+"impact": {
+"humain": "Largely ressentie par the population of the South-East of France and in the region of Piedmont in Italy. No notable damage has been reported to date.",
+"matériel": "No notable damage has been reported to date."
+},
+"contexte\_sismotectonique": {
+"description": "The region of Saint-Paul-sur-Ubaye has a history of seismic activity. The most recent significant event occurred in 1959 with an intensity of VII-VIII and a magnitude of approximately 5.0. The region is considered to be a seismically active area."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "1959",
+"magnitude": "5.0",
+"localisation": "Saint-Paul-sur-Ubaye",
+"victimes\_estimees": "No specific number of victims has been reported."
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "No specific information has been provided.",
+"localisation": "No specific information has been provided.",
+"impact": "No specific impact has been reported."
+}
+},
+"references": [
+"IRSN/BERSSIN (2012). Bureau d'évaluation des risques sismiques pour la sûreté des installations. (www.irsn.fr)"
+]
+}

@@ -1,0 +1,50 @@
+{
+"seisme": {
+"lieu": "Chinon",
+"date": "5 novembre 2006",
+"heure\_utc": "00h37",
+"heure\_locale": "00h37",
+"magnitude": "4.1",
+"localisation": {
+"latitude": "47.30",
+"longitude": "0.08",
+"profondeur": "non spécifié"
+},
+"repliques": {
+"nombre": "2",
+"magnitudes": {
+"min": "2.7",
+"max": "4.2"
+}
+},
+"impact": {
+"humain": "non spécifié",
+"matériel": "non spécifié"
+},
+"contexte\_sismotectonique": {
+"description": "La région est située à l'extrémité sud-ouest du bassin de Paris dont les sédiments recouvrent la partie orientale du massif armoricain. Les failles « armoricaines » de direction NW-SE et NNW-SSW y produisent une sismicité modérée, relativement fréquente et diffuse. L'analyse des séismes historiques montre que la région a déjà subi des séismes plus significatifs qui ont occasionné des dégâts sur le bâti à moins de 40 km du site de Chinon (intensité épicentrale supérieure à VI MSK). Le plus fort de ces séismes historiques (Loudun 1711) a une magnitude estimée entre 5,5 et 6."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "5 novembre 2006",
+"magnitude": "4.1",
+"localisation": "Chinon",
+"victimes\_estimees": "non spécifié"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "non spécifié",
+"localisation": "Chinon",
+"impact": "non spécifié"
+}
+},
+"references": [
+"non spécifié"
+]
+}
+}
+
+Note: The refined answer is the same as the original answer as there is no new context provided that would require refinement.

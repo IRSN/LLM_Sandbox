@@ -1,0 +1,54 @@
+
+{
+"seisme": {
+"lieu": "Mulhouse (Haut-Rhin)",
+"date": "10 September 2022",
+"heure\_utc": "15h58 TU",
+"heure\_locale": "17h58 locale",
+"magnitude": "3.9 (Mw - Géoazur)",
+"localisation": {
+"latitude": "7.471° E",
+"longitude": "47.669 °N"
+},
+"repliques": {
+"nombre": "266",
+"magnitudes": {
+"min": "1.0",
+"max": "3.2"
+}
+},
+"impact": {
+"humain": "Modéré",
+"matériel": "Aucun dégât sur les bâtiments"
+},
+"contexte\_sismotectonique": {
+"description": "La région est marquée par une sismicité historique récurrente, qui compte plusieurs séismes d’intensité épicentrale supérieur à V, les plus importants étant les séismes de Bâle de 1356 (intensités MSK=VII -VIII et IX-X). Les failles associées à ces événements historiques restent mal connues et rien ne permet actuellement d’affirmer que les structures à l’origine de ces séismes s oient communes à celle du séisme de 2022."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "1356",
+"magnitude": "VIII - IX",
+"localisation": "Bâle",
+"victimes\_estimees": "Aucune information disponible"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "Non spécifié",
+"localisation": "Non spécifié",
+"impact": "Arrêt certaines opérations en cours et vérifications de matériels"
+}
+},
+"references": [
+"BCSF",
+"IRSN",
+"RENASS",
+"CSEM -EMSC",
+"EDF",
+"IRSN Fiche seisme MULHOUSE 13092022",
+"www.irsn.fr",
+"IRSN @IRSNFrance"
+]
+}
