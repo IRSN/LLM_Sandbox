@@ -1,0 +1,77 @@
+
+{
+"seisme": {
+"lieu": "Poitiers - La Roche -sur-Yon",
+"date": "12 février 2018",
+"heure\_utc": "4h08",
+"heure\_locale": "4h08",
+"magnitude": "4.0",
+"localisation": {
+"latitude": "46.65° N",
+"longitude": "0.59° W"
+},
+"repliques": {
+"nombre": "1",
+"magnitudes": {
+"min": "3.9",
+"max": "4.0"
+}
+},
+"impact": {
+"humain": "VI (fortement ressentie - dégâts légers sur des bâtiments vulnérables)",
+"matériel": "non spécifié"
+},
+"contexte\_sismotectonique": {
+"description": "NO-SE direction"
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "7 septembre 1972",
+"magnitude": "Mw 5.0",
+"localisation": "Oléron",
+"victimes\_estimees": "non spécifié"
+},
+{
+"date": "25 janvier 1799",
+"magnitude": "Mw 6",
+"localisation": "Bouin",
+"victimes\_estimees": "non spécifié"
+},
+{
+"date": "6 octobre 1711",
+"magnitude": "Mw 6",
+"localisation": "Loudun",
+"victimes\_estimees": "non spécifié"
+},
+{
+"date": "9 janvier 1772",
+"magnitude": "Mw 6",
+"localisation": "Parthenay",
+"victimes\_estimees": "non spécifié"
+},
+{
+"date": "28 avril 2016",
+"magnitude": "Mw 3.9",
+"localisation": "La Rochelle",
+"victimes\_estimees": "non spécifié"
+},
+{
+"date": "12 février 2018",
+"magnitude": "Mw 4.8",
+"localisation": "Saint-Hilaire -de-Voust",
+"victimes\_estimees": "non spécifié"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "non spécifié",
+"localisation": "Pouzauges",
+"impact": "aucune incidence notable sur son installation"
+}
+},
+"references": [
+"IRSN-Seisme-Vendee-France-20180212.pdf"
+]
+}
