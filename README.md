@@ -2,17 +2,18 @@
 Expérimentation des LLM en mode RAG sur des fiches séismes produites par l'IRSN
 
 ## Présentation du projet
-Dans le cadre d'une expérimentation sur les Large Language Model, nous avons mis en place un système de RAG (Retrieval Augmented Generation).
-Nous nous sommes concentrés sur l'utilisation d'un modèle Open Source, Mistral-7B-Instruct-v0.1, disponible sur la plateforme communautaire Huggingface.
-L'objectif de ce projet était de créer un système de Question/Réponse en utilisant un LLM sur les fiches séismes de l'irsn.
-CHEMIN FICHES SEISME
+L'objectif de ce projet était de créer un système de Question/Réponse en utilisant un LLM sur les fiches séismes de l'irsn et de tester la capacité d'un LLM à extraire des données d'une fiche pour en faire de la données structurées (format Json).
 
+Dans le cadre de cette expérimentation, nous avons donc mis en place un système de RAG (Retrieval Augmented Generation) en utilisant le frame work llamaindex proposé par Meta ainsi que le LLM OpenSource Mistral-7B-Instruct-v0.1 proposé par l'entreprise Mistral et disponible sur la plateforme communautaire Huggingface.
 
+Toutes les étapes de l'expérimentation sont disponibles dans le notebook Experimentation_LLM.ipynb.
+Afin de pouvoir l'utiliser il suffit de le télécharger et de suivre les instalaltion nécessaires.
 
+Il est conseillé de faire tourner ce Notebook sur des GPU pour être capable de faire focntionner le modèle Mistral-7B-Instruct-v0.1.
 
 ## Installation
 
-Pour utiliser les bibliothèqeu suivante :
+Pour utiliser les bibliothèque suivante :
 llama-index
 torch
 sentence_transformers
