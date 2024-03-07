@@ -55,6 +55,12 @@ Tous les résultats de l'expérimentation sont présents dans la partie output. 
 2. **Les outputs QR:** Notre expérimentation nous permet de générer des fichiers CSV répertoriant toutes les réponses aux questions que nous posons aux LLM sur les fiches séismes. (Voir la partie sauvegarde CSV du notebook.) Vous retrouverez ainsi les réponses dans le sous-dossier Q/R du dossier output.
 
 
+## Crédits
 
+Cécilia DAMON & Yohan MIARA
+
+
+## Contact
+En cas de question sur l'utilisation ou les résultats, contacter Cécilia DAMON cecilia.damon@irsn.fr
 
 
