@@ -1,0 +1,82 @@
+
+{
+"seisme": {
+"lieu": "Italie",
+"date": "30 octobre 2016",
+"heure\_utc": "07h40",
+"heure\_locale": "09h40",
+"magnitude": "6.5",
+"localisation": {
+"latitude": "42.2838° N",
+"longitude": "12.4867° E"
+},
+"repliques": {
+"nombre": "700+",
+"magnitudes": {
+"min": "3.0",
+"max": "6.5"
+}
+},
+"impact": {
+"humain": "0",
+"matériel": "heavy"
+},
+"contexte\_sismotectonique": {
+"description": "occurrence of a new event major cannot be excluded"
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "24 août 2016",
+"magnitude": "6.9",
+"localisation": "Italie",
+"victimes\_estimees": "298"
+},
+{
+"date": "26 octobre 2016",
+"magnitude": "5.4",
+"localisation": "Italie",
+"victimes\_estimees": "0"
+},
+{
+"date": "26 octobre 2016",
+"magnitude": "5.9",
+"localisation": "Italie",
+"victimes\_estimees": "0"
+}
+],
+"sequences\_sismiques\_similaires": [
+{
+"date": "1703",
+"magnitude": "7.0",
+"localisation": "Italy",
+"intervalle": "1 month"
+},
+{
+"date": "1639",
+"magnitude": "7.0",
+"localisation": "Italy",
+"intervalle": "1 week"
+},
+{
+"date": "1997",
+"magnitude": "5.8",
+"localisation": "Italy",
+"intervalle": "6 months",
+"sequence\_de\_Colfiorito": true
+}
+],
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "unknown",
+"localisation": "unknown",
+"impact": "unknown"
+}
+},
+"references": [
+"http://www.protezionecivile.gov.it/jcms/it/view\_com.wp?contentId=COM60700"
+]
+}
+}
+
+Note: The new context provides additional information about the magnitude and frequency of previous earthquakes in the region, as well as the occurrence of a new event major. It also mentions the existence of a sequence of earthquakes in the region, which is similar to the sequence of Colfiorito in 1997. This information has been incorporated into the refined answer to provide a more comprehensive understanding of the earthquake and its context.

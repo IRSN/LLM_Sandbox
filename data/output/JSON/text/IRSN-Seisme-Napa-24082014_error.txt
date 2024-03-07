@@ -1,0 +1,73 @@
+
+{
+"seisme": {
+"lieu": "Californie, USA",
+"date": "24 août 2014",
+"heure\_utc": "10h24 TU",
+"heure\_locale": "10h24 TU",
+"magnitude": "6.0",
+"localisation": {
+"latitude": "38.22° N",
+"longitude": "122.31° W"
+},
+"repliques": {
+"nombre": "2",
+"magnitudes": {
+"min": "2.6",
+"max": "3.6"
+}
+},
+"impact": {
+"humain": "plus de 100 blessés, 3 historiques bâtiments endommagés",
+"matériel": "dommages importants à une dizaine de bâtiments, dont 3 historiques"
+},
+"contexte\_sismotectonique": {
+"description": "système de failles de San Andreas, longue d'environ 1300 km, large d'une centaine de kilomètres dans cette partie de la Californie, mouvement de la faille en décrochement dextre (coulissement horizontal à droite) se produit essentiellement le long des failles principales"
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "1898",
+"magnitude": "6.5",
+"localisation": "San Francisco Bay Area",
+"victimes\_estimees": "plus de 7000"
+},
+{
+"date": "1868",
+"magnitude": "6.8",
+"localisation": "Hayward - Green Valley",
+"victimes\_estimees": "plus de 2000"
+},
+{
+"date": "1906",
+"magnitude": "7.8",
+"localisation": "San Francisco",
+"victimes\_estimees": "plus de 1500"
+},
+{
+"date": "1989",
+"magnitude": "6.9",
+"localisation": "Loma Prieta",
+"victimes\_estimees": "plus de 600"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "non spécifié",
+"localisation": "non spécifiée",
+"impact": "non spécifié"
+}
+},
+"references": [
+"IRSN/BERSSIN",
+"Oona Scotti",
+"01 58 35 86.47",
+"Oona.scotti@irsn.fr",
+"29 août 2014",
+"Figure 1 : Localisation du séisme du 24 août 2014 et estimation automatique du mouvement ressenti (intensité instrumentale) à partir des stations accélérométriques (triangles colorés)."
+]
+}
+}
+
+The revised answer includes additional context about the sismic activity in the region, including the location of the epicenter of the earthquake and the presence of major fault lines. It also includes information about the historical context of sismic activity in the area, including previous destructive earthquakes and the potential impact of future earthquakes on the region. Additionally, the revised answer includes information about the impact of the earthquake on installations nucleares, although this information is not specified in the original query.

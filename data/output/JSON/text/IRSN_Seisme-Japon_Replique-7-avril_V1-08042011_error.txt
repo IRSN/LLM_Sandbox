@@ -1,0 +1,46 @@
+
+{
+"seisme": {
+"lieu": "Japon",
+"date": "07 avril 2011",
+"heure\_utc": "14h32 TU",
+"heure\_locale": "23h32 heure locale",
+"magnitude": "7.1",
+"localisation": {
+"latitude": "38.25°N",
+"longitude": "141.64°E"
+},
+"repliques": {
+"nombre": "1",
+"magnitudes": {
+"min": "1.48 g",
+"max": "2.7 g"
+}
+},
+"impact": {
+"humain": "Evacuation of coastal and fluvial zones",
+"matériel": "Coupures de courant reported in several localities"
+},
+"contexte\_sismotectonique": {
+"description": "Same structure tectonique as that activated during the main shock"
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "11 mars 2011",
+"magnitude": "9.0",
+"localisation": "Same structure tectonique",
+"victimes\_estimees": "Unknown"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "Unknown",
+"localisation": "Onagawa",
+"impact": "Important accelerations at the centrale d'Onagawa"
+}
+},
+"references": [
+"IRSN/DEI/SARG/BERSSIN, 01 58 35 76 83, David.Baumont@irsn.fr, 08 Avril 20111FS 8, Figure 1. Localisation des épicentres du choc principal et de la réplique du 7 avril. L’importance du déplacement sur la faille activée lors du séisme du 11 mars est représentée par les franges colorées. La couleur rouge indique le plus fort déplacement lors du séisme du 11 mars (Source USGS – Google Earth)"
+}

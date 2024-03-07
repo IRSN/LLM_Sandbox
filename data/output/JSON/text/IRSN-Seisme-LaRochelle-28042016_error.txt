@@ -1,0 +1,51 @@
+
+{
+"seisme": {
+"lieu": "La Rochelle",
+"date": "28 avril 2016",
+"heure\_utc": "8h46",
+"heure\_locale": "8h46",
+"magnitude": "4.2",
+"localisation": {
+"latitude": "46.09°Nord",
+"longitude": "0.98°Ouest"
+},
+"repliques": {
+"nombre": "2",
+"magnitudes": {
+"min": "3.8",
+"max": "5.2"
+}
+},
+"impact": {
+"humain": "V (fortement ressentie, dégâts très légers sur bâtiments vulnérables)",
+"matériel": "Chutes de plâtre, fissures"
+},
+"contexte\_sismotectonique": {
+"description": "Région de La Rochelle a connu des événements similaires dans le passé, notamment un séisme de magnitude 5.2 (estimation du LDG) sur l'île d'Oléron le 7 avril 1972 et une série de petits séismes d'intensité pouvant atteindre V. A l'échelle régionale (rayon de 50 km), on recense 25 séismes avec une magnitude supérieure ou égale à 4.0 dans la base de donnée IRSN et 26 séismes d'intensité supérieure ou égale à V dans la base de données SisFrance."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "7 avril 1972",
+"magnitude": "5.2",
+"localisation": "Île d'Oléron",
+"victimes\_estimees": "non spécifié"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "non spécifié",
+"localisation": "non spécifié",
+"impact": "aucun effet n'est à redouter sur les installations concernées"
+}
+},
+"references": [
+"IRSN/ BERSSIN",
+"Edward.cushing@irsn.fr",
+"Maria.lancieri@irsn.fr",
+"www.irsn.fr",
+"www.irsn.fr/FR/Contact"
+]
+}

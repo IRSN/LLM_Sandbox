@@ -1,0 +1,63 @@
+
+{
+"seisme": {
+"lieu": "Villeneuve (04)",
+"date": "19 September 2012",
+"heure\_utc": "18h56 TU",
+"heure\_locale": "18h56 TU",
+"magnitude": "3.5 (Ml)",
+"localisation": {
+"latitude": "43°53'42'' N",
+"longitude": "5°51'32'' E",
+"depth": "3 km"
+},
+"repliques": {
+"nombre": "2",
+"magnitudes": {
+"min": "2.6",
+"max": "2.4"
+}
+},
+"impact": {
+"humain": "minor damage",
+"matériel": "minor damage"
+},
+"contexte\_sismotectonique": {
+"description": "Faille de la Moyenne Durance"
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "1509",
+"magnitude": "VIII",
+"localisation": "Manosque",
+"victimes\_estimees": "unknown"
+},
+{
+"date": "1708",
+"magnitude": "VIII",
+"localisation": "Manosque",
+"victimes\_estimees": "unknown"
+},
+{
+"date": "19 September 2012",
+"magnitude": "3.5 (Ml)",
+"localisation": "Villeneuve (04)",
+"victimes\_estimees": "unknown"
+}
+],
+"magnitude\_historique": {
+"description": "The magnitude of the historical earthquakes is increased by 0.5. In addition, the study of the seismic hazard is completed by considering the paleoseismic activity of Valveranne (between -26000 and -9000 years). This seismic activity is known due to the traces it has left in the superficial geological layers (displacement of approximately 1 meter). By analogy with contemporary earthquakes, its magnitude is estimated to be approximately 6.5."
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_research": {
+"puissance": "unknown",
+"localisation": "unknown",
+"impact": "unknown"
+}
+},
+"references": [
+"IRSN-Seisme-Manosque-19092012.pdf"
+]
+}
+}

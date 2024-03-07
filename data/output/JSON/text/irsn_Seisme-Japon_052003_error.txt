@@ -1,0 +1,70 @@
+
+{
+"seisme": {
+"lieu": "Japan",
+"date": "26 mai 2003",
+"heure\_utc": "18h24",
+"heure\_locale": "9h24",
+"magnitude": "7",
+"localisation": {
+"latitude": "38.817",
+"longitude": "141.654"
+},
+"repliques": {
+"nombre": "several",
+"magnitudes": {
+"min": "not specified",
+"max": "not specified"
+}
+},
+"impact": {
+"humain": "minor injuries, few deaths",
+"matériel": "damage to buildings, fires, landslides"
+},
+"contexte\_sismotectonique": {
+"description": "Japan is located near a subduction zone where the Pacific Plate is subducting beneath the Eurasian Plate. The two plates are rapidly closing, causing a buildup of tectonic stress. When this stress becomes too great, it can cause earthquakes. The site of the earthquake was located in a region of strong seismic activity, but not the strongest in Japan. A major fault of several tens of kilometers in length was activated in the subduction zone, causing strong and variable movements on the surface. The effects of the earthquake were complex and required further studies."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "1847",
+"magnitude": "7.4",
+"localisation": "Zenkoji",
+"victimes\_estimees": "34,000"
+},
+{
+"date": "1896",
+"magnitude": "7.6",
+"localisation": "Sanriku",
+"victimes\_estimees": "22,000"
+},
+{
+"date": "1923",
+"magnitude": "8.3",
+"localisation": "Tokyo",
+"victimes\_estimees": "more than 100,000"
+},
+{
+"date": "1995",
+"magnitude": "6.8",
+"localisation": "Kobe",
+"victimes\_estimees": "5,502"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "not specified",
+"localisation": "Onagawa",
+"impact": "damage to buildings, fires, landslides"
+}
+},
+"references": [
+"IRSN/BERSSIN",
+"JMA",
+"Asahi Shinbun"
+]
+}
+}
+
+The new context provides additional information about the seismic activity in Japan and the specifics of the earthquake that occurred in 1995. However, it does not directly relate to the original query. Therefore, the original answer remains the same.

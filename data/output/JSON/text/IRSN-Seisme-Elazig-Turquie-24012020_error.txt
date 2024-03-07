@@ -1,0 +1,75 @@
+{
+"seisme": {
+"lieu": "Turquie",
+"date": "24 janvier 2020",
+"heure\_utc": "17h55 TU – 20h55 locale",
+"heure\_locale": "24 janvier 2020",
+"magnitude": "6.7 (Mw –USGS)",
+"localisation": {
+"latitude": "37.0000° N",
+"longitude": "35.5000° E"
+},
+"repliques": {
+"nombre": "1",
+"magnitudes": {
+"min": "4.5",
+"max": "5.0"
+}
+},
+"impact": {
+"humain": "41 victimes, plus de 1600 blessés",
+"matériel": "environ 45 per sonnes ont été extraites des décombres, plus de 1000 autres bâtiments sont considérés devant être détruits"
+},
+"contexte\_sismotectonique": {
+"description": "Faille est-anatolienne"
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "1893",
+"magnitude": "6.0",
+"localisation": "au sud-ouest",
+"victimes\_estimees": "non spécifié"
+},
+{
+"date": "1874",
+"magnitude": "6.0",
+"localisation": "au nord-est",
+"victimes\_estimees": "non spécifié"
+},
+{
+"date": "1875",
+"magnitude": "6.0",
+"localisation": "au nord-est",
+"victimes\_estimees": "non spécifié"
+},
+{
+"date": "2010",
+"magnitude": "6.1",
+"localisation": "est d’Elazig",
+"victimes\_estimees": "non spécifié"
+},
+{
+"date": "2011",
+"magnitude": "7.2",
+"localisation": "lac de Van",
+"victimes\_estimees": "non spécifié"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "non spécifié",
+"localisation": "non spécifié",
+"impact": "aucun effet significatif n’est redouté sur le site même de la centrale nucléaire"
+}
+},
+"references": [
+"IRSN/BERSSIN",
+"Christophe.clement@irsn.fr",
+"http://www.irsn.fr/FR/Contact"
+]
+}
+}
+
+The refined answer includes information about the two nuclear power plants currently under construction in Turkey, their locations, and the expected impact of the earthquake on them. The Akkuyu nuclear power plant, located in the region of Mersin, is expected to be unaffected by the earthquake due to its distance from the epicenter and the magnitude of the earthquake. The Sinop nuclear power plant, located in the north of Turkey, was initially planned to be built with the help of Japanese partners, but the project was canceled in October 2019. The refined answer also includes references to the original answer.

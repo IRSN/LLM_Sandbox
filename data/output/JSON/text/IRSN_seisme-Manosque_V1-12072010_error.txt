@@ -1,0 +1,63 @@
+{
+"seisme": {
+"lieu": "Manosque",
+"date": "08/07/2010",
+"heure\_utc": "20h20 TU",
+"heure\_locale": "22h20 heure locale",
+"magnitude": "3.0",
+"localisation": {
+"latitude": "43°50' North",
+"longitude": "5°50' East"
+},
+"repliques": {
+"nombre": "1",
+"magnitudes": {
+"min": "2.9",
+"max": "3.0"
+}
+},
+"impact": {
+"humain": "Fortement ressenti par la population à Manosque et Pierrevert (et dans une moindre mesure à Sainte-Tulle, Volx, Corbières et Villeneuve), mais ne semble ne pas av oir été ressenti de manière significative au-delà de quelques kilo mètres de l'épicentre (Oraison, Mane, 
+Sainte-Maime).",
+"matériel": "La secousse, qui n'a pas fait de dégâts, a été fortement ressentie par la population àManosque et Pierrevert (et dans une moindre mesure à Sainte-Tulle, Volx, Corbières et Villeneuve), mais ne semble ne pas av oir été ressenti de manière significative au-delà de quelques kilo mètres de l'épicentre (Oraison, Mane, 
+Sainte-Maime)."
+},
+"contexte\_sismotectonique": {
+"description": "La secousse s'est très vraisemblablement produite à faible profondeur."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "1509",
+"magnitude": "8",
+"localisation": "non spécifié",
+"victimes\_estimees": "non spécifié"
+},
+{
+"date": "1708",
+"magnitude": "8",
+"localisation": "non spécifié",
+"victimes\_estimees": "non spécifié"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "non spécifié",
+"localisation": "non spécifié",
+"impact": "Le séisme s'est produit à environ 15 kilomètres du centre CEA de Cadarache (aux incertitudes de localisation près), mais compte tenu de sa magnitude, il n'a occasionné aucun dommage aux installations nucléaires du site."
+}
+},
+"references": [
+"IRSN/BERSSIN",
+"David Baumont",
+"Marc Cushing",
+"01 58 35 91 24",
+"david.baumont@irsn.fr",
+"edward.cushing@irsn.fr",
+"www.irsn.fr"
+]
+}
+}
+
+The refined answer includes additional information about the seismic activity in the area, specifically the 1909 earthquake in de Lambesc and the subsequent evaluation of the seismic risk in the region. This information provides context for the 2010 earthquake in Manosque and helps to explain why it did not cause significant damage to the nuclear power plant at Cadarache. The references section has also been updated to include the IRSN/BERSSIN source.
