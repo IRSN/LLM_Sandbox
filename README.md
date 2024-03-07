@@ -43,3 +43,18 @@ Le Notebook Experimentation_LLM permet de tester les fonctionnalités que nous a
 5. **Extraction de Métadonnées (personnalisée):** Similaire à la précédente mais permet d'extraire des métadonnées que nous avons extraites nous-mêmes pour obtenir de meilleurs résultats.
 
 6. **Extraction de Données Structurées:** Code permettant de réaliser la partie extraction de données structurées à partir d'un LLM de notre expérimentation.
+
+## Résultat
+
+Tous les résultats de l'expérimentation sont présents dans la partie output. Vous y retrouverez :
+
+1. **Les outputs Json:** L'expérimentation n'a pas permis d'extraire des fichiers Json dans 100% des cas. On retrouve ainsi 2 types d'outputs :
+   1. Des outputs sous format json en cas d'extraction fructueuse.
+   2. Des outputs sous format txt en cas d'extraction infructueuse ne respectant pas la structure du fichier json.
+
+2. **Les outputs QR:** Notre expérimentation nous permet de générer des fichiers CSV répertoriant toutes les réponses aux questions que nous posons aux LLM sur les fiches séismes. (Voir la partie sauvegarde CSV du notebook.) Vous retrouverez ainsi les réponses dans le sous-dossier Q/R du dossier output.
+
+
+
+
+
