@@ -18,14 +18,13 @@ Pour utiliser les bibliothèques suivantes :
 - llama-index
 - torch
 - sentence_transformers
-- InstructorEmbedding
 - faiss-cpu
 - pdfminer.six
 - bs4
 - transformers
 
 ```python
-pip install llama-index torch sentence_transformers InstructorEmbedding faiss-cpu pdfminer.six bs4 transformers
+pip install llama-index torch sentence_transformers faiss-cpu pdfminer.six bs4 transformers
 ```
 
 
