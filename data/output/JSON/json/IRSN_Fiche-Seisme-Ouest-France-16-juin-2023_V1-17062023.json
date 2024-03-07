@@ -1,0 +1,47 @@
+{
+    "seisme": {
+        "lieu": "non spécifié",
+        "date": "non spécifié",
+        "heure_utc": "non spécifié",
+        "heure_locale": "non spécifié",
+        "magnitude": "non spécifié",
+        "localisation": {
+            "latitude": "non spécifié",
+            "longitude": "non spécifié"
+        },
+        "repliques": {
+            "nombre": "non spécifié",
+            "magnitudes": {
+                "min": "non spécifié",
+                "max": "non spécifié"
+            }
+        },
+        "impact": {
+            "humain": "non spécifié",
+            "matériel": "non spécifié"
+        },
+        "contexte_sismotectonique": {
+            "description": "non spécifié"
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "non spécifié",
+                    "magnitude": "non spécifié",
+                    "localisation": "non spécifié",
+                    "victimes_estimees": "non spécifié"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "non spécifié",
+                "localisation": "non spécifié",
+                "impact": "non spécifié"
+            }
+        },
+        "references": [
+            "non spécifié"
+        ]
+    }
+}

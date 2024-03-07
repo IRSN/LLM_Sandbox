@@ -1,0 +1,48 @@
+{
+    "seisme": {
+        "lieu": "Etat de Gurajat",
+        "date": "26 janvier 2001",
+        "heure_utc": "non spécifié",
+        "heure_locale": "08H46 heure locale",
+        "magnitude": "7,5",
+        "localisation": {
+            "latitude": "23,40 degrés Nord",
+            "longitude": "70,32 degrés Est",
+            "description": "Près de la ville de Bhuj, à120 kilomètres environ au nord-est de la ville de Jamnagar"
+        },
+        "repliques": {
+            "nombre": "non spécifié",
+            "magnitudes": {
+                "min": "non spécifié",
+                "max": "non spécifié"
+            }
+        },
+        "impact": {
+            "humain": "non spécifié",
+            "matériel": "non spécifié"
+        },
+        "contexte_sismotectonique": {
+            "description": "Le séisme a été engendré par un mouvement vertical de la faille (mécanisme en chevauchement). Il s’agit d’un séisme superficiel : l’essentiel du mouvement de la faille s’est produit sur une profondeur de 17 km, sur une longueur d’environ 150 km. L’Etat de Gurajat est le deuxième état le plus industriellement réalisé en Inde."
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "1819",
+                    "magnitude": "supérieure à 7,5",
+                    "localisation": "Kutch",
+                    "victimes_estimees": "non spécifié"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "non spécifié",
+                "localisation": "non spécifié",
+                "impact": "non spécifié"
+            }
+        }
+    },
+    "references": [
+        "non spécifié"
+    ]
+}

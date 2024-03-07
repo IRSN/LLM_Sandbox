@@ -1,0 +1,47 @@
+{
+    "seisme": {
+        "lieu": "Christchurch, Nouvelle-Zélande",
+        "date": "21 février 2011",
+        "heure_utc": "23h51 TU",
+        "heure_locale": "13h51 en heure locale",
+        "magnitude": "6,3",
+        "localisation": {
+            "latitude": "-43.60°",
+            "longitude": "172.71°"
+        },
+        "repliques": {
+            "nombre": "plus de 4000",
+            "magnitudes": {
+                "min": "non spécifié",
+                "max": "non spécifié"
+            }
+        },
+        "impact": {
+            "humain": "au moins 75 morts et 300 disparus",
+            "matériel": "importants dégâts sur les infrastructures"
+        },
+        "contexte_sismotectonique": {
+            "description": "La Nouvelle-Zélande se situe à la frontière de deux plaques tectoniques (les plaques australienne et pacifique) qui coulissent l’une contre l’autre à la vitess e de 4 cm/an le long de la faille Alpine, une faille transformante majeure. La faille Alpine se situe à 100 km au Nord-Ouest de Christchurch. Ce n’est donc pas elle qui est à l’origine des séismes de septembre 2010 et de février 2011, mais une faille « satellite » dite de GreenDale qui lui est oblique."
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "23 février 2011",
+                    "magnitude": "6,3",
+                    "localisation": "10 km au Sud-est de la ville de Christchurch (Nouvelle-Zélande)",
+                    "victimes_estimees": "au moins 75 morts et 300 disparus"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "non spécifié",
+                "localisation": "non spécifié",
+                "impact": "non spécifié"
+            }
+        }
+    },
+    "references": [
+        "http://geonet.org.nz"
+    ]
+}

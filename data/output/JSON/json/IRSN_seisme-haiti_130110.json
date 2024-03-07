@@ -1,0 +1,59 @@
+{
+    "seisme": {
+        "lieu": "Port-au-Prince, Haïti",
+        "date": "12 janvier 2010",
+        "heure_utc": "21h53 (TU)",
+        "heure_locale": "16h53 heure local e",
+        "magnitude": "7,0",
+        "localisation": {
+            "latitude": "18,45° Nord",
+            "longitude": "72,45° Ouest"
+        },
+        "repliques": {
+            "nombre": "1",
+            "magnitudes": {
+                "min": "5,9",
+                "max": "5,9"
+            }
+        },
+        "impact": {
+            "humain": "très importants dégâts subits par les réseaux de communication et de nombreuses victimes ou disparus",
+            "matériel": "effondrement de pl usieurs édifices importants, tels que des hôpitaux et des bâtiments administratifs"
+        },
+        "contexte_sismotectonique": {
+            "description": "La ville de Port-au-Prince est située à l’ouest de l’ile d’ Hispaniola dans les grandes Antilles, entre Porto-Rico à l’Est, Cuba à l’Ouest et la Jamaïqu e au Sud-Ouest. Le séisme s’est produit dans une ré gion située 200 kilomètres au Sud de la limite qui sépare e la plaque Caraïbe de la plaque Nord-Américaine. C ette limite de plaque est caractérisée par des déformations de la croûte terrestre en coulissage et raccourcisseme nt. La vitesse relative de déplacement des deux plaques es t rapide (2 cm/an), la plaque Caraïbe se déplaçant vers l’Est par rapport à la plaque Nord-Américaine (figure 3). La région de Port-au-Prince est située entre deux systèmes de failles qui bordent l’île d’Hispaniola et dont les m ouvements sont influencés par le mouvement des plaq ues : le système des failles septentrionales au Nord et le système de failles Enriquillo-Plaintain Garden au Sud (EPGF – figure 3). Les mécanismes au foyer (qui permettent de décrire la déformation durant le séisme le long de la faille) sont cohérents avec la direction des failles qui fo nctionnent en coulissage senestre. Ce système de fa illes (EPGF) accommode une déformation estimée à environ 8 mm/an (Mann et al., 2008) soit près de la moitié de la vit esse relative des deux plaques."
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "1751",
+                    "magnitude": "non spécifié",
+                    "localisation": "non spécifié",
+                    "victimes_estimees": "non spécifié"
+                },
+                {
+                    "date": "1770",
+                    "magnitude": "non spécifié",
+                    "localisation": "non spécifié",
+                    "victimes_estimees": "non spécifié"
+                },
+                {
+                    "date": "1960-aujourd’hui",
+                    "magnitude": "non spécifié",
+                    "localisation": "non spécifié",
+                    "victimes_estimees": "non spécifié"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "non spécifié",
+                "localisation": "non spécifié",
+                "impact": "non spécifié"
+            }
+        },
+        "references": [
+            "non spécifié"
+        ]
+    }
+}

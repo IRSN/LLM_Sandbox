@@ -1,0 +1,50 @@
+{
+    "seisme": {
+        "lieu": "Argelès-Gazost",
+        "date": "17 novembre 2006",
+        "heure_utc": "18h19",
+        "heure_locale": "18h19",
+        "magnitude": "5.2",
+        "localisation": {
+            "latitude": "42.97° Nord",
+            "longitude": "0.1° Ouest"
+        },
+        "repliques": {
+            "nombre": "1",
+            "magnitudes": {
+                "min": "3.3",
+                "max": "3.3"
+            }
+        },
+        "impact": {
+            "humain": "Légers dégâts dans les environs de Lourdes (chutes de cheminées), courtes coupures d'électricité dans des communes des Hautes-Pyrénées",
+            "matériel": "Aucune installation nucléaire dans la région concernée"
+        },
+        "contexte_sismotectonique": {
+            "description": "La région est située dans la Faille nord-pyrénéenne, où se concentre la sismicité modérée et fréquente de la région. Les premiers travaux sur le séisme du 17/11/2006 montrent que le mouvement est extensif sur une faille de direction E-W."
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "21/6/1660",
+                    "magnitude": "6.5",
+                    "localisation": "Bagnères-de-B. 0,07 42,97 VIII-IX",
+                    "victimes_estimees": "Importantes"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "Aucune installation nucléaire dans la région concernée"
+            },
+            "inspection_par_EDF": {
+                "description": "L'inspection par EDF de ses barrages hydro-électriques a permis de vérifier l'absence d'impact du séisme sur les ouvrages les plus proches de l'épicentre."
+            }
+        },
+        "references": [
+            "IRSN/BERSSIN",
+            "CEA/LDG",
+            "Bureau Central Sismologique Français (www.bcsf.prd.fr)"
+        ]
+    }
+}

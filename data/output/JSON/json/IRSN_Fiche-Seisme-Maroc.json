@@ -1,0 +1,77 @@
+{
+    "seisme": {
+        "lieu": "Maroc",
+        "date": "8 September 2023",
+        "heure_utc": "23h11",
+        "heure_locale": "22h11",
+        "magnitude": "6.8",
+        "localisation": {
+            "latitude": "70 km au sud -ouest de Marrakech",
+            "longitude": "11.6 km"
+        },
+        "repliques": {
+            "nombre": "22",
+            "magnitudes": {
+                "min": "2.2",
+                "max": "4.8"
+            }
+        },
+        "impact": {
+            "humain": "nombreux effondrements de bâtiments et de nombreuses victimes",
+            "matériel": "non spécifié"
+        },
+        "contexte_sismotectonique": {
+            "description": "Le Maroc se situe le long de la limite de plaque s qui sépare l’Afrique du Nord (plaque Africaine) de l’Europe (plaque Eurasienne) au niveau des régions du Rif et de la mer d’Alboran"
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "1994",
+                    "magnitude": "6.0 - 6.5",
+                    "localisation": "Le Rif",
+                    "victimes_estimees": "non spécifié"
+                },
+                {
+                    "date": "2004",
+                    "magnitude": "6.0 - 6.5",
+                    "localisation": "Le Rif",
+                    "victimes_estimees": "non spécifié"
+                },
+                {
+                    "date": "2016",
+                    "magnitude": "6.0 - 6.5",
+                    "localisation": "Le Rif",
+                    "victimes_estimees": "non spécifié"
+                },
+                {
+                    "date": "1960",
+                    "magnitude": "5.8",
+                    "localisation": "140 km au sud -ouest dans la région d’Agadir",
+                    "victimes_estimees": "12 000 - 15 000"
+                },
+                {
+                    "date": "1624",
+                    "magnitude": "6.0 - 6.7",
+                    "localisation": "Proximité de la ville de Fez",
+                    "victimes_estimees": "non spécifié"
+                },
+                {
+                    "date": "1920",
+                    "magnitude": "6.0 - 6.7",
+                    "localisation": "Proximité de la ville de Fez",
+                    "victimes_estimees": "non spécifié"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "2 MWth",
+                "localisation": "Rabat",
+                "impact": "non spécifié"
+            }
+        },
+        "references": [
+            "non spécifié"
+        ]
+    }
+}

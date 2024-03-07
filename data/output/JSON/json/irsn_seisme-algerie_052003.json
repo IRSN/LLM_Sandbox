@@ -1,0 +1,64 @@
+{
+    "seisme": {
+        "lieu": "Algérie",
+        "date": "21 mai 2003",
+        "heure_utc": "18h45",
+        "heure_locale": "19h45",
+        "magnitude": "6.7",
+        "localisation": {
+            "latitude": "36.89° N",
+            "longitude": "3.78° E",
+            "hypocentre": {
+                "latitude": "36.89° N",
+                "longitude": "3.78° E",
+                "profondeur": "10 km"
+            }
+        },
+        "repliques": {
+            "nombre": "1",
+            "magnitudes": {
+                "min": "6.0",
+                "max": "7.0"
+            }
+        },
+        "impact": {
+            "humain": "2000+",
+            "matériel": "20000+ bâtiments détruits"
+        },
+        "contexte_sismotectonique": {
+            "description": "L'Algérie se situe sur une frontière active de plaques au niveau de la convergence de l'Afrique et de l'Eurasie. Les principales failles actives sont localisées au niveau de la chaîne de montagne nord-africaine (Atlas). Le déplacement rapide des bords de la faille génère des ondes sismiques qui se propagent jusqu'à la surface. Les installations nucléaires sont situées à une distance importante des centrales, aucun effet notable n'est attendu à la suite du séisme."
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "1954",
+                    "magnitude": "6.7",
+                    "localisation": "Orléansville (EL Asnam)",
+                    "victimes_estimees": "1200+",
+                    "bâtiments_détruits": "20000+",
+                    "intensité_maxime": "V"
+                },
+                {
+                    "date": "1980",
+                    "magnitude": "7.1",
+                    "localisation": "El Asnam",
+                    "victimes_estimees": "2600+",
+                    "bâtiments_détruits": "20000+",
+                    "intensité_maxime": "VIII"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "faible",
+                "localisation": "Espagne",
+                "impact": "aucun effet notable n'est attendu à la suite du séisme"
+            }
+        },
+        "references": [
+            "IRSN/BERSSIN",
+            "IRSN/IRSN",
+            "IRSN/IRSN"
+        ]
+    }
+}

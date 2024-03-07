@@ -1,0 +1,47 @@
+{
+    "seisme": {
+        "lieu": "North of Afghanistan",
+        "date": "25 March 2002",
+        "heure_utc": "14h56 GMT",
+        "heure_locale": "19h26 local time",
+        "magnitude": "5.8 to 6.1",
+        "localisation": {
+            "latitude": "36.4833° N",
+            "longitude": "71.8333° E"
+        },
+        "repliques": {
+            "nombre": "several",
+            "magnitudes": {
+                "min": "5",
+                "max": "5.2"
+            }
+        },
+        "impact": {
+            "humain": "over 1800 deaths, over 4000 injuries, and over 20 000 people without shelter",
+            "matériel": "4000 destroyed houses, the old city paved and the new quarters also affected"
+        },
+        "contexte_sismotectonique": {
+            "description": "The earthquake resulted from a shallow rupture of a fault oriented North-South which reflects a local compression (source USGS)"
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "25 March 2002",
+                    "magnitude": "5.8 to 6.1",
+                    "localisation": "North of Afghanistan",
+                    "victimes_estimees": "over 1800 deaths, over 4000 injuries, and over 20 000 people without shelter"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "not specified",
+                "localisation": "not specified",
+                "impact": "not specified"
+            }
+        }
+    },
+    "references": [
+        "IRSN/BERSSIN"
+    ]
+}
