@@ -1,0 +1,47 @@
+{
+    "seisme": {
+        "lieu": "Fukushima Daiichi, Japan",
+        "date": "March 11, 2011",
+        "heure_utc": "08:46:43 UTC",
+        "heure_locale": "03:46:43 JST",
+        "magnitude": "9.0",
+        "localisation": {
+            "latitude": "37.1940° N",
+            "longitude": "140.2760° E"
+        },
+        "repliques": {
+            "nombre": "1",
+            "magnitudes": {
+                "min": "9.0",
+                "max": "9.0"
+            }
+        },
+        "impact": {
+            "humain": "Over 15,000 deaths, tens of thousands of injuries and displaced people",
+            "matériel": "Extensive damage to infrastructure, including nuclear power plants"
+        },
+        "contexte_sismotectonique": {
+            "description": "The earthquake occurred along the Tohoku-Oshu Trench subduction zone, which is one of the most active and powerful subduction zones in the world."
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "1960",
+                    "magnitude": "8.3",
+                    "localisation": "Hokkaido, Japan",
+                    "victimes_estimees": "Over 20,000"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "1,000 MWe",
+                "localisation": "Fukushima Daiichi, Japan",
+                "impact": "Three nuclear meltdowns, hydrogen-air explosions, and the release of radioactive material into the atmosphere. The disaster is considered the worst nuclear accident since the Chernobyl disaster in 1986. The tsunami reached 14 m at the Fukushima Daiichi nuclear power plant, which is situated at 10 m above sea level. The digue de protection is designed to withstand an increase in sea level of 5.7 m. The examination of satellite images shows that the platforms were flooded by the tsunami, as evidenced by the mud and debris carried away (Figure 8). The shutdown of the cooling systems was largely due to the submersion of the platforms by the tsunami. It is likely that the subsidence of the coastal zones due to the earthquake amplified the extent of the submersion of the platforms of Fukushima Daiichi and Daini. The only quantifiable data to date concern the Onagawa nuclear power plant, for which the subsidence is estimated to have reached 1 m, reducing the height of the platform from 14.8 m to 13.8 m. However, the platform was not flooded by the tsunami, which reached 13 m at that location (communicated by Tohoku Electric Power). For the affected nuclear power plants, it is not yet possible to evaluate the exact impact of the earthquake and that of the tsunami."
+            }
+        }
+    },
+    "references": [
+        "USGS. (2011, March 11). Earthquake of magnitude 9.0 at 08:46:43 UTC near Fukushima, Japan. Retrieved from <https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2011-03-11T08:46:43.000Z&endtime=2011-03-11T08:46:43.000Z&minmagnitude=9.0&maxmagnitude=9.0&latitude=37.1940&longitude=140.2760&limit=1&offset=0>"
+    ]
+}

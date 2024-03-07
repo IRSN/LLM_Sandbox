@@ -1,0 +1,47 @@
+{
+    "seisme": {
+        "lieu": "Mexico",
+        "date": "21 janvier 2003",
+        "heure_utc": "02H06",
+        "heure_locale": "20h06",
+        "magnitude": "7.8",
+        "localisation": {
+            "latitude": "18.22",
+            "longitude": "104.6"
+        },
+        "repliques": {
+            "nombre": "unknown",
+            "magnitudes": {
+                "min": "unknown",
+                "max": "unknown"
+            }
+        },
+        "impact": {
+            "humain": "unknown",
+            "matériel": "unknown"
+        },
+        "contexte_sismotectonique": {
+            "description": "The earthquake occurred due to the sudden release of accumulated constraints caused by the continuous approach of the Cocos and North American plates."
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "unknown",
+                    "magnitude": "unknown",
+                    "localisation": "unknown",
+                    "victimes_estimees": "unknown"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "unknown",
+                "localisation": "Laguna Verde",
+                "impact": "unknown"
+            }
+        },
+        "references": [
+            "IRSN/BERSSIN"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "seisme": {
+        "lieu": "non spécifié",
+        "date": "non spécifié",
+        "heure_utc": "non spécifiée",
+        "heure_locale": "non spécifiée",
+        "magnitude": "non spécifié",
+        "localisation": {
+            "latitude": "non spécifiée",
+            "longitude": "non spécifiée"
+        },
+        "repliques": {
+            "nombre": "non spécifié",
+            "magnitudes": {
+                "min": "non spécifié",
+                "max": "non spécifié"
+            }
+        },
+        "impact": {
+            "humain": "non spécifié",
+            "matériel": "non spécifié"
+        },
+        "contexte_sismotectonique": {
+            "description": "non spécifié"
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "non spécifié",
+                    "magnitude": "non spécifié",
+                    "localisation": "non spécifiée",
+                    "victimes_estimees": "non spécifié"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "non spécifié",
+                "localisation": "non spécifié",
+                "impact": "non spécifié"
+            }
+        },
+        "magnitude_type": "Ms",
+        "magnitude_value": "non spécifié",
+        "magnitude_estimation_method": "amplitude maximale des ondes de surface",
+        "magnitude_estimation_method_description": "méthode utilisée pour calculer la magnitude des ondes de surface",
+        "magnitude_estimation_method_reference": "non spécifié"
+    },
+    "references": [
+        "non spécifié"
+    ]
+}

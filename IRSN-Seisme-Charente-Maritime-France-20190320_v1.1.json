@@ -1,0 +1,59 @@
+{
+    "seisme": {
+        "lieu": "Montendre (Charente -Maritime)",
+        "date": "20 mars 2019",
+        "heure_utc": "10h56",
+        "heure_locale": "10h56",
+        "magnitude": "5.0 (Ml - CEA)",
+        "localisation": {
+            "latitude": "45,35°Nord",
+            "longitude": "0,35°Ouest"
+        },
+        "repliques": {
+            "nombre": "1",
+            "magnitudes": {
+                "min": "2.8",
+                "max": "2.8"
+            }
+        },
+        "impact": {
+            "humain": "Fortement ressenti par la population du centre et sud-ouest de la France, notamment jusqu’à Tours, Saint -Etienne, les Sables -D’Olonne... Les intensités les plus fortes collectées par le BCSF -RéNaSS atteignent V (secousse fortement ressentie – dégâts très légers sur bâtiments vulnérables)",
+            "matériel": "Chutes de cheminées"
+        },
+        "contexte_sismotectonique": {
+            "description": "La région est caractérisée par une activité sismique modérée. Quelques séismes historiques et instrumentaux y sont recensés dans un rayon de 100 km. Parmi eux, ceux présentant les plus fortes intensités sont les séismes du 7 septembre 1972 (à Oléron), 28 septembre 1935 (à Rouillac) et 10 août 1759 (séisme d’Entre -deux-Mers, Bordelais) qui ont atteint une intensité épicentrale de VII à VII-VIII (dommages aux constructions). Le séisme du 7 septembre 1972 (5,0<M<5,5 selon les différents catalogues) a été ressenti à plus grande distance (au-delà de 300 km) et son intensité était significativement plus forte (VII). Les séismes de cette région se produisent vraisemblablement sur des failles anciennes dites hercyniennes dont l’orientation majoritaire est NO-SE (failles d’Oléron, de Jonzac,…) et qui marquent la transition entre le massif armoricain au nord et le bassin aquitain au sud."
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "7 septembre 1972",
+                    "magnitude": "5.0<M<5.5",
+                    "localisation": "Oléron",
+                    "victimes_estimees": "non spécifié"
+                },
+                {
+                    "date": "28 septembre 1935",
+                    "magnitude": "non spécifié",
+                    "localisation": "Rouillac",
+                    "victimes_estimees": "non spécifié"
+                },
+                {
+                    "date": "10 août 1759",
+                    "magnitude": "non spécifié",
+                    "localisation": "séisme d’Entre -deux-Mers, Bordelais",
+                    "victimes_estimees": "non spécifié"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "non spécifié",
+                "localisation": "non spécifié",
+                "impact": "non spécifié"
+            }
+        },
+        "references": [
+            "non spécifié"
+        ]
+    }
+}

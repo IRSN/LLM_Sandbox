@@ -1,0 +1,47 @@
+{
+    "seisme": {
+        "lieu": "Amatrice, Italy",
+        "date": "24 August 2016",
+        "heure_utc": "01:36",
+        "heure_locale": "03:36",
+        "magnitude": "6.0",
+        "localisation": {
+            "latitude": "42.70° N",
+            "longitude": "13.24° E"
+        },
+        "repliques": {
+            "nombre": "928",
+            "magnitudes": {
+                "min": "4.0",
+                "max": "5.4"
+            }
+        },
+        "impact": {
+            "humain": "267 deaths, hundreds of injuries, thousands of displaced people",
+            "matériel": "destruction of buildings and infrastructure"
+        },
+        "contexte_sismotectonique": {
+            "description": "The Apennines, a mountain range in central Italy, are part of the Apennine chain, which spans over 1,000 km from north to south Italy. The region of Amatrice, Accumoli, and Pescara del Tronto, which were affected by the earthquake, is part of the central segment of this chain. The Apennines form a complex geological system, resulting from the subduction of the Adriatic Plate under the Eurasian Plate. Since approximately 5 million years, this chain has undergone an extension movement with a relatively rapid pace perpendicular to the axis of the chain. This extension is accompanied by tectonic movements on a network of normal faults, which are the origin of the seismes that affect central Italy, such as the Amatrice earthquake (Mw 6.0, 40 km south-east of the Amatrice earthquake) and the seismes of Accumoli, Marches (Mw 5.7, 6.0, and 5.6, 40 km north-west of the Amatrice earthquake) (Figure 2). Figure 3 shows the localisation of the Amatrice earthquake and the seismic replicas registered until 5 hours after the earthquake (circles in red). The squares indicate the location of the historical events (source INGV). Figure 4 shows the seismic zonage map of Italy and the location of the Amatrice earthquake and the seismic replica of Mw 5.4 on August 24, 2016. The region epicentrale of the Amatrice earthquake is located in the zone 1 corresponding to the highest level of seismic risk in Italy (zone red in Figure 4) according to the seismic zonage published by the Italian Civil Protection Department. This map represents the seismic risk level established at the commune level on a scale of 1 (high) to 4 (low)."
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "24 August 2016",
+                    "magnitude": "6.0",
+                    "localisation": "Amatrice, Italy",
+                    "victimes_estimees": "267 deaths"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "unknown",
+                "localisation": "unknown",
+                "impact": "unknown"
+            }
+        },
+        "references": [
+            "IRSN/BERSSIN (2016). Impact on people and buildings. <https://www.irsn.org/sites/default/files/documents/2016/08/26/IRSN-Seisme-Amatrice-Italie-240816_V1.pdf>"
+        ]
+    }
+}

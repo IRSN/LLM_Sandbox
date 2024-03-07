@@ -1,0 +1,47 @@
+{
+    "seisme": {
+        "lieu": "mer au large des côtes de l'île de Honshu",
+        "date": "13 février 2021",
+        "heure_utc": "14h08 TU – 23h08 locale",
+        "heure_locale": "14h08 heure locale",
+        "magnitude": "7,1 (Mw –JMA)",
+        "localisation": {
+            "latitude": "non spécifié",
+            "longitude": "non spécifié"
+        },
+        "repliques": {
+            "nombre": "des dizaines",
+            "magnitudes": {
+                "min": "non spécifié",
+                "max": "non spécifié"
+            }
+        },
+        "impact": {
+            "humain": "157 personnes blessées dont 12 en état grave",
+            "matériel": "au moins 1600 maisons endommagées dont certaines partiellement détruites et environ 300 écoles ont subi des dommages, parmi lesquelles 70 ont été fermées. Le séisme a également provoqué des dommages étendus sur les infrastructures, notamment sur le port de Soma qui a subi des effets de liquéfaction des sols. De nombreux glissements de terrain ont été reportés dont certains ont affecté des routes. Le service d’alerte précoce du JMA a fonctionné pour prévenir les populations de l’arrivée des ondes de forte amplitude par voie de radio, presse et SMS. La circulation des trains Shinkansen a été interrompue de manière automatique grâce au service d’alerte sismique précoce UrEDAS en fonction depuis 1992. Le séisme a été très largement ressenti sur la partie nord de l’île de Honshu et notamment à Tokyo situé à plus de 200 kilomètres de l’épicentre. Il a été suivi de dizaines de répliques, dont trois ont dépassé la magnitude 5 (sources NIED, IRIS)."
+        },
+        "contexte_sismotectonique": {
+            "description": "le séisme a eu lieu en mer au niveau de la zone de subduction du Nord du Japon, le long de laquelle la plaque pacifique plonge sous la plaque eurasienne à une vitesse de 8 à 9 cm/an. Il peut donc être considéré comme une suite de ce méga séisme, même 10 ans après."
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "11 mars 2011",
+                    "magnitude": "11",
+                    "localisation": "non spécifié",
+                    "victimes_estimees": "non spécifié"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "non spécifié",
+                "localisation": "non spécifié",
+                "impact": "non spécifié"
+            }
+        }
+    },
+    "references": [
+        "non spécifié"
+    ]
+}

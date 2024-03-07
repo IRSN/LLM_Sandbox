@@ -1,0 +1,53 @@
+{
+    "seisme": {
+        "lieu": "Lhommaizé (46,43° Nord et 0,59° Est)",
+        "date": "9 septembre 2013",
+        "heure_utc": "20h50 TU (22h50 heure locale)",
+        "heure_locale": "20h50 TU (22h50 heure locale)",
+        "magnitude": "3.1 (Ml)",
+        "localisation": {
+            "latitude": "46,43° N",
+            "longitude": "0,59° E"
+        },
+        "repliques": {
+            "nombre": "24",
+            "magnitudes": {
+                "min": "II",
+                "max": "V"
+            }
+        },
+        "impact": {
+            "humain": "aucun dégât",
+            "matériel": "modérée et pas de dégâts"
+        },
+        "contexte_sismotectonique": {
+            "description": "modérée, plus faible que les zones actives comme les Alpes ou les Pyrénées, mais significativement plus importante que les régions stables comme le Bassin parisien"
+        },
+        "sismicite_historique": {
+            "evenements_precedents": [
+                {
+                    "date": "non spécifié",
+                    "magnitude": "non spécifié",
+                    "localisation": "non spécifié",
+                    "victimes_estimees": "non spécifié"
+                }
+            ]
+        },
+        "impact_installations_nucleaires": {
+            "reacteur_recherche": {
+                "puissance": "non spécifié",
+                "localisation": "non spécifié",
+                "impact": "aucun dégât"
+            }
+        },
+        "references": [
+            "IRSN/BERSSIN",
+            "Stéphane Baize",
+            "01 58 35 91 24",
+            "Stephane.baize@irsn.fr",
+            "13 septembre 2013",
+            "www.irsn.fr",
+            "CONTACT : IRSN/BERSSIN Stéphane Baize 01 58 35 91 24 Stephane.baize@irsn.fr 13 septembre 2013"
+        ]
+    }
+}
