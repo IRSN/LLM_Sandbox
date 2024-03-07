@@ -1,0 +1,52 @@
+
+{
+"seisme": {
+"lieu": "Sumatra, Indonesia",
+"date": "11 April 2012",
+"heure\_utc": "08h38 TU",
+"heure\_locale": "14h38 heure locale",
+"magnitude": "8,6",
+"localisation": {
+"latitude": "2,348°N",
+"longitude": "93,072°E"
+},
+"repliques": {
+"nombre": "1",
+"magnitudes": {
+"min": "8,2",
+"max": "8,2"
+}
+},
+"impact": {
+"humain": "5 personnes tuées (attaques cardiaques, une chute d'arbre)",
+"matériel": "modérée"
+},
+"contexte\_sismotectonique": {
+"description": "Sumatra se situe à la frontière entre les plaques indo-australiennes au sud et celle de la Sonde au Nord. L'activité sismique et volcanique est très importante sur l'ensemble de l'archipel indonésien. La zone de Sumatra est affectée depuis le début des années 2000 par une série de séismes de subduction majeurs. Le plus important d'entre eux est le séisme d'Aceh, en décembre 2004, qui a mobilisé plus de 1200 km de faille et engendré un tsunami meurtrier ayant causé la mort de plus de 230 000 personnes. Cette série de séismes consécutifs a eu pour conséquence de libérer l'énergie emmagasinée à cette frontière de plus de 3000 km de long."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "11 April 2012",
+"magnitude": "8,6",
+"localisation": "Sumatra, Indonesia",
+"victimes\_estimees": "5 personnes tuées"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "non spécifié",
+"localisation": "non spécifié",
+"impact": "non spécifié"
+}
+},
+"references": [
+"IRSN/BERSSIN",
+"Edward Marc Cushing",
+"edward.cushing@irsn.fr",
+"Figure 1 : Localisation du choc principal et répartition des intensités** ressenties au nord de l'île de Sumatra estimées à partir des témoignages collectés par l'USGS sur internet : <http://earthquake.usgs.gov/earthquakes/eventpage/usc000905e#dyfi>",
+"13 avril 2012Séismes de Sumatra (Indonésie)du mercredi 11 avril 2012Magnitude = 8,6 à 8h38 (TU) – 14h38 (heure locale)Magnitude = 8,2 à 10h43 (TU) – 16h43 (heure locale)",
+"Version 1 du 13 avril 2012•la magnitude correspond à l'énergie libérée par le séisme. Elle est déterminée à partir des mouvements de sol enregistrés par des sismomètres. ** l'intensité décrit les effets et les dégâts produits par le séisme (échelle de I à XII).Kalpakkam"
+]
+}

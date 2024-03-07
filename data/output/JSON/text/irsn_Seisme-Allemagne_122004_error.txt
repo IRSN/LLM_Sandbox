@@ -1,0 +1,52 @@
+{
+"seisme": {
+"lieu": "Allemagne",
+"date": "05 December 2004",
+"heure\_utc": "01:52 (TU)",
+"heure\_locale": "02:52 (local time)",
+"magnitude": "5.1",
+"localisation": {
+"latitude": "48.11° N",
+"longitude": "8.00° E"
+},
+"repliques": {
+"nombre": "2",
+"magnitudes": {
+"min": "4.5",
+"max": "5.8"
+}
+},
+"impact": {
+"humain": "No direct human casualties reported, but some injuries and damage to property",
+"matériel": "Damage to buildings and infrastructure, including power lines and bridges"
+},
+"contexte\_sismotectonique": {
+"description": "The seismic activity was caused by the remontée of the African plate towards the Eurasian plate, which is leading to the creation of mountain ranges (Alps, Maghreb) and an increase in seismic activity."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "22 February 2003",
+"magnitude": "5.8",
+"localisation": "Saint-Dié (France)",
+"victimes\_estimees": "No direct human casualties reported, but some injuries and damage to property"
+},
+{
+"date": "23 February 2004",
+"magnitude": "5.1",
+"localisation": "Besançon (France)",
+"victimes\_estimees": "No direct human casualties reported, but some injuries and damage to property"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "Not specified",
+"localisation": "Not specified",
+"impact": "No direct impact on nuclear power plants reported."
+}
+},
+"references": [
+"IRSN/BERSSIN (2004). Bureau d'évaluation des risques sismiques pour la sûreté des installations. Seisme du 05 décembre 2004. Retrieved from <https://www.irsn.org/fr/FS3/Pages/Seisme-Allemagne_122004.pdf>"
+]
+}

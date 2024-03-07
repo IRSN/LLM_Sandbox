@@ -1,0 +1,50 @@
+
+{
+"seisme": {
+"lieu": "non spécifié",
+"date": "non spécifié",
+"heure\_utc": "non spécifié",
+"heure\_locale": "non spécifié",
+"magnitude": "non spécifié",
+"localisation": {
+"latitude": "non spécifié",
+"longitude": "non spécifié"
+},
+"repliques": {
+"nombre": "non spécifié",
+"magnitudes": {
+"min": "non spécifié",
+"max": "non spécifié"
+}
+},
+"impact": {
+"humain": "non spécifié",
+"matériel": "non spécifié"
+},
+"contexte\_sismotectonique": {
+"description": "non spécifié"
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "non spécifié",
+"magnitude": "non spécifié",
+"localisation": "non spécifié",
+"victimes\_estimees": "non spécifié"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "non spécifié",
+"localisation": "non spécifié",
+"impact": "non spécifié"
+}
+},
+"references": [
+"non spécifié"
+]
+}
+}
+
+Note: The values for the fields in the JSON object are not specified in the provided context information, so they should be filled in with the appropriate values based on the specific details of the seismic event.

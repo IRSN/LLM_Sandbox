@@ -1,0 +1,49 @@
+
+{
+"seisme": {
+"lieu": "Central Virginia Seismic Zone",
+"date": "23 août 2011",
+"heure\_utc": "17h51 TU",
+"heure\_locale": "13h51 heure locale",
+"magnitude": "5.8 (Mw)",
+"localisation": {
+"latitude": "37.93°Nord, 77.93°Ouest",
+"longitude": "37.93°Nord, 77.93°Ouest"
+},
+"repliques": {
+"nombre": "5",
+"magnitudes": {
+"min": "4.5 (Mw)",
+"max": "5.8 (Mw)"
+}
+},
+"impact": {
+"humain": "Aucune victime et peu de dégâts ont été rapportés par les médias américains. Cependant, de nombreuses administrations ont été évacuées dans les grandes villes de la côte Est des Etats-Unis.",
+"matériel": "De très importants mouvements de foule et de perturbations du trafic routier et ferroviaire et des communications téléphoniques se sont produites."
+},
+"contexte\_sismotectonique": {
+"description": "Le séisme s’est produit dans une région appelée « Central Virginia Seismic Zone » dans laquelle aucun séisme aussi important n’avait été enregistré au cours de l’histoire. Le plus fort événement recensé jusqu’alors s’était produit en 1875 ; sa magnitude est estimée à 4.8. Les données de sismicité instrumentale et les études géologiques n’avaient pas permis d’identifier de failles actives dans la région."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "1875",
+"magnitude": "4.8",
+"localisation": "Central Virginia Seismic Zone",
+"victimes\_estimees": "Aucune victime n’a été rapportée."
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "2 réacteurs de puissance nominale",
+"localisation": "Virginie",
+"impact": "Les deux réacteurs de la centrale nucléaire de North Anna, qui étaient en fonctionnement à puissance nominale, se sont arrêtés automatiquement du fait de la perte de la connexion avec le réseau électrique. L’alimentation électrique des systèmes de sûreté de ces réacteurs a été reprise automatiquement par leurs générateurs diesels de secours. L’exploitant a placé ses installations en alerte de niveau 2 sur une échelle qui en compte 4. Les délégations régionales de la NRC (National Regulatory Commission) ont gréé en conséquence leurs centres de crise. La connexion avec le réseau électrique a été rétablie après quelques heures. Le site est en cours d’inspection par les employés et les inspecteurs de la NRC pour vérifier l’absence de dommages suite au séisme."
+}
+}
+},
+"references": [
+"IRSN/BERSSIN (2011), Bureau d’évaluation des risques sismiques pour la sûreté des installations, Séisme de Virginie (Etats-Unis) du 23 août 2011",
+"Wall Street Journal (2011), NRC Informs of Earthquake at North Anna Nuclear Plant", <http://online.wsj.com/article/SB10001424053111903461304576524000085420000.html>"
+]
+}

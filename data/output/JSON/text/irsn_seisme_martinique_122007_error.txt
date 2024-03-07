@@ -1,0 +1,51 @@
+{
+"seisme": {
+"lieu": "Martinique",
+"date": "29 novembre 2007",
+"heure\_utc": "19h00",
+"heure\_locale": "15h00",
+"magnitude": "7.4",
+"localisation": {
+"latitude": "14.951°",
+"longitude": "61.24°"
+},
+"repliques": {
+"nombre": "10",
+"magnitudes": {
+"min": "5.0",
+"max": "7.4"
+}
+},
+"impact": {
+"humain": "3 people died, 100 people injured",
+"matériel": "damage to buildings and infrastructure"
+},
+"contexte\_sismotectonique": {
+"description": "subduction of the North American Plate under the Caribbean Plate"
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "8 février 1843",
+"magnitude": "7.5 - 8.0",
+"localisation": "Guadeloupe",
+"victimes\_estimees": "over 3000 people"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "unknown",
+"localisation": "unknown",
+"impact": "unknown"
+}
+},
+"references": [
+"IRSN/BERSSIN",
+"USGS NEIC"
+]
+}
+}
+}
+
+The new context provides additional information about the 2007 Martinique earthquake, including the number of casualties and injuries, the extent of the damage, and the specific areas affected. It also highlights the importance of the region in terms of seismic activity and the ongoing efforts to mitigate the risks associated with earthquakes in the area. However, this context does not provide any new information about the magnitude or location of the earthquake, so the existing answer remains accurate.

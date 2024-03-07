@@ -1,0 +1,61 @@
+
+{
+"seisme": {
+"lieu": "Turquie",
+"date": "23 octobre 2011",
+"heure\_utc": "10h41 TU",
+"heure\_locale": "13h41 en heure locale",
+"magnitude": "7,2",
+"localisation": {
+"latitude": "38,86° de latitude Nord",
+"longitude": "43,48° de longitude Est"
+},
+"repliques": {
+"nombre": "6",
+"magnitudes": {
+"min": "5",
+"max": "6"
+}
+},
+"impact": {
+"humain": "366 morts et 1 301 blessés",
+"matériel": "2 262 bâtiments détruits"
+},
+"contexte\_sismotectonique": {
+"description": "Zone de collision entre la plaque de la péninsule Arabique et la plaque Eurasienne. Dans ce secteur de déformation active qui s’échelonne sur une distance d’environ 500 km (dépi s le bas plateau Arabie au Caucase), les déplacements relatifs des deux plaques sont d’environ 15 mm/a (2006, Copley & Jackson dans Tectonics ). Plus spécifiquement, dans la région au nord du lac de Van à l’Est de la Turquie, une partie de cette déformation (8 mm/a) se produit au niveau de grands décrochements WNW-ESE dextres et de failles inverses E-W."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "1111",
+"magnitude": "6,5-7",
+"localisation": "Van",
+"victimes\_estimees": "2 000 personnes"
+},
+{
+"date": "1646-1648",
+"magnitude": "6,5-7",
+"localisation": "Van",
+"victimes\_estimees": "2 000 personnes"
+},
+{
+"date": "1881",
+"magnitude": "6",
+"localisation": "Van",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945-1946",
+"victimes\_estimees": "1941 et 1945

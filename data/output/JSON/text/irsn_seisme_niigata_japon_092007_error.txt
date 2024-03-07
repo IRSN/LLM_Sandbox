@@ -1,0 +1,53 @@
+{
+"seisme": {
+"lieu": "Niigata, Japan",
+"date": "16 July 2007",
+"heure\_utc": "1h13",
+"heure\_locale": "10h13 heure locale",
+"magnitude": "6.6",
+"localisation": {
+"latitude": "37.5° North",
+"longitude": "138.6° East"
+},
+"repliques": {
+"nombre": "1",
+"magnitudes": {
+"min": "5.6",
+"max": "5.6"
+}
+},
+"impact": {
+"humain": "11 morts and over 1000 injured",
+"matériel": "25 000 homes were left without electricity and the total cost of damages was estimated at 1 500 billion yen (approximately 90 billion euros)"
+},
+"contexte\_sismotectonique": {
+"description": "The earthquake occurred in the Niigata region of Japan, which is located on the boundary between the Eurasian Plate and the Pacific Plate. The region is known for its high seismic activity due to the subduction of the Philippine Plate beneath the Eurasian Plate."
+},
+"sismicite\_historique": {
+"evenements\_precedents": [
+{
+"date": "23 October 2004",
+"magnitude": "6.6",
+"localisation": "Niigata, Japan",
+"victimes\_estimees": "0"
+}
+]
+},
+"impact\_installations\_nucleaires": {
+"reacteur\_recherche": {
+"puissance": "8 200 MW",
+"localisation": "Kashiwazaki-Kariwa, Japan",
+"impact": "Three reactors were automatically shut down and one was in the process of starting up. The reactors are expected to remain offline for at least a year after the earthquake."
+}
+},
+"references": [
+"IRSN/BERSSIN (2007). Report on the earthquake in Niigata, Japan on July 16, 2007. Retrieved from www.irsn.org"
+]
+}
+}
+
+The earthquake of July 16, 2007 in Niigata, Japan caused 11 deaths and over 1000 injuries. The epicenter of the earthquake was located in the Niigata region, which is situated on the boundary between the Eurasian Plate and the Pacific Plate. The region is known for its high seismic activity due to the subduction of the Philippine Plate beneath the Eurasian Plate. The earthquake caused significant damage to the area, with 25,000 homes left without electricity and the total cost of damages estimated at 1.5 billion yen (approximately 90 billion euros).
+
+Three reactors at the Kashiwazaki-Kariwa nuclear power plant were automatically shut down and one was in the process of starting up during the earthquake. The reactors are expected to remain offline for at least a year after the earthquake. The total cost of the shutdown of the reactors is estimated to be around 200 billion yen (1.19 billion euros) to TEPCO.
+
+The IRSN participated in a mission organized by the French association of parasismic engineering from August 2 to 8, 2007, in the epicenter of the earthquake. The main effects observed on the ground were good resistance of structures designed for seismic resistance, significant damage to old buildings and poorly maintained structures in the vicinity of the epicenter, numerous subsidence of the ground and landslides up to 30 kilometers from the epicenter, which caused significant damage to roads and railways.
