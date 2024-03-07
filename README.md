@@ -22,9 +22,10 @@ Pour utiliser les bibliothèques suivantes :
 - pdfminer.six
 - bs4
 - transformers
+- langchain
 
 ```python
-pip install llama-index torch sentence_transformers faiss-cpu pdfminer.six bs4 transformers
+pip install llama-index torch sentence_transformers faiss-cpu pdfminer.six bs4 transformers langchain
 ```
 
 
