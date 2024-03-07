@@ -23,8 +23,10 @@ Pour utiliser les bibliothèques suivantes :
 - pdfminer.six
 - bs4
 
-python
-pip install llama-index torch sentence_transformers InstructorEmbedding faiss-cpu pdfminer.six bs4 
+```python
+pip install llama-index torch sentence_transformers InstructorEmbedding faiss-cpu pdfminer.six bs4
+```
+
 
 ## Utilisation
 
