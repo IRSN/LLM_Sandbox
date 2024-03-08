@@ -15,13 +15,13 @@ Il est conseillé de faire tourner ce Notebook sur des GPU pour être capable de
 ## Arborescence
 - data
   - input
-    - embedding
-    - fiches_seismes
+    - embedding: représentation vecorielle des fiches séismes pour le LLM
+    - fiches_seismes: fiche sésimes en format pdf
   - output
-    - JSON
-      - json
-      - txt
-    - QR
+    - JSON: output de la génération de données structurées à partir des fiches séismes (expérimentation n°2)
+      - json: génération de ficher json fructueuse
+      - txt: génération infructueuse de fichier json = contenu généré par le LLM sans format json
+    - QR: output de l'expérimentation n°1
 
 
 
