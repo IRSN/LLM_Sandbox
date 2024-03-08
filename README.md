@@ -13,17 +13,16 @@ Toutes les étapes de l'expérimentation sont disponibles dans le notebook Exper
 Il est conseillé de faire tourner ce Notebook sur des GPU pour être capable de faire fonctionner le modèle Mistral-7B-Instruct-v0.1.
 
 ## Arborescence
-data
-│
-├── input
-│   ├── embedding
-│   └── fiches_sesimes
-│
-└── output
-    ├── JSON
-    │   ├── json
-    │   └── txt
-    └── QR
+- data
+  - input
+    - embedding
+    - fiches_seismes
+  - output
+    - JSON
+      - json
+      - txt
+    - QR
+
 
 
 
