@@ -30,9 +30,14 @@ Notre expérimentation consiste en :
 ![Texte alternatif](/data/Image3.png "Expérimentation")
 
 ### Retrieval Augmented Generation
-La première expérimentation menée et testable dans ce repository est le RAG. 
-Nous avons choisi de nous concentrer sur la récupération d'information dans les fiches sésimes de l'instatut.
+L'étape du RAG qui a demandé le plus de customization est le retreiver. 
+Vous trouverez dans ce repository et dans le notebook les étpes que nous avons du créer afin d'êtr capable de fournir la bonne source de document à notre LLM en fonction de la question posée.
+Ainsi nous avons joué sur l'extraction automatique de métadonnée incluse dans notre framework et sur l'extraction de metadonnées précises et ciblées (titre/sous-titre de document).
+Ces extractions ont permis de grandement améliorer nos résultats jusqu'à atteindre un niveau de précisiond e document jsu'à  attreidnre un niveau de 95% pour des questions simples et 75% pour des questions complexes.
 
+Pour plus de détails sur l'expérimentation et les résultats, vous pouvez regarder cette présentation faite le 27/02/2024.
+
+https://myirsn.proton.intra.irsn.fr/IRSN/plirsni_197226/presentation-llm-27-02?details=true
 
 ## Arborescence
 
