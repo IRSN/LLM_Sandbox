@@ -25,8 +25,9 @@ Notre expérimentation consiste en :
 - Évaluatution de notre RAG à travers 2 tâches distinctes
   - La capacité du modèle à répondre à une question simple et une question complexe sur l'intégralité du corpus de document
   - La capacité du modèle à créer de la donnée structurée (du JSON) en ne lui donnant qu'un seul docuement
-  - 
-![Texte alternatif](/data/Image3.png "Expérimentation")
+
+  
+                ![Texte alternatif](/data/Image3.png "Expérimentation")
 
 ### Retrieval Augmented Generation
 La première expérimentation menée et testable dans ce repository est le RAG. 
