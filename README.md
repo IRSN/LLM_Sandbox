@@ -27,7 +27,7 @@ Notre expérimentation consiste en :
   - La capacité du modèle à créer de la donnée structurée (du JSON) en ne lui donnant qu'un seul docuement
 
   
-                ![Texte alternatif](/data/Image3.png "Expérimentation")
+![Texte alternatif](/data/Image3.png "Expérimentation")
 
 ### Retrieval Augmented Generation
 La première expérimentation menée et testable dans ce repository est le RAG. 
