@@ -12,7 +12,30 @@ Toutes les étapes de l'expérimentation sont disponibles dans le notebook Exper
 
 Il est conseillé de faire tourner ce Notebook sur des GPU pour être capable de faire fonctionner le modèle Mistral-7B-Instruct-v0.1.
 
+
+## L'expérimentation
+
+Notre expérimentation consiste en :
+- La sélection d'un Large Language Model open source
+- Le paramétrage du RAG
+  - Sélection d'un Framework LLamaindex
+  - Création d'embeddings
+  - Paramétrage d'un retriever
+  - Paramétrage d'un prompt adéquat pour notre modèle
+- Évaluatution de notre RAG à travers 2 tâches distinctes
+  - La capacité du modèle à répondre à une question simple et une question complexe sur l'intégralité du corpus de document
+  - La capacité du modèle à créer de la donnée structurée (du JSON) en ne lui donnant qu'un seul docuement
+
+
+### Retrieval Augmented Generation
+La première expérimentation menée et testable dans ce repository est le RAG. 
+Nous avons choisi de nous concentrer sur la récupération d'information dans les fiches sésimes de l'instatut.
+
+
 ## Arborescence
+
+Le repository est composé de l'arborescence de documents suivante :
+
 - data
   - input
     - embedding: représentation vecorielle des fiches séismes pour le LLM
@@ -77,6 +100,11 @@ Tous les résultats de l'expérimentation sont présents dans la partie output. 
 
 Cécilia DAMON & Yohan MIARA
 
+## Contribution
+
+Cécilia DAMON
+Yohan MIARA
+Yann Richet
 
 ## Contact
 En cas de question sur l'utilisation ou les résultats, contacter Cécilia DAMON cecilia.damon@irsn.fr
